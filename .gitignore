@@ -46,7 +46,7 @@ Thumbs.db
 # COMPOSER #
 ############
 vendor
-composer.lock
+#composer.lock
 
 # SYNCTHING #
 #############

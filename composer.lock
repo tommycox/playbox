@@ -1,0 +1,31 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "8bd5122ce1fdf545635528b45ed11720",
+    "packages": [],
+    "packages-dev": [
+        {
+            "name": "coder/coder",
+            "version": "2.2",
+            "dist": {
+                "type": "zip",
+                "url": "http://ftp.drupal.org/files/projects/coder-7.x-2.2.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "type": "library"
+        }
+    ],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.3.3"
+    },
+    "platform-dev": []
+}
